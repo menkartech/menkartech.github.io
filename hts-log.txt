@@ -1,0 +1,11 @@
+HTTrack3.49-2 launched on Fri, 10 Nov 2023 22:52:21 at https://menkar.carrd.co/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w https://menkar.carrd.co/ -O "/home/julian/websites/menkar" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 7 seconds : 6 links scanned, 5 files written (267254 bytes overall) [98999 bytes received at 14142 bytes/sec], 148726 bytes transferred using HTTP compression in 4 files, ratio 14%, 1.6 requests per connection
+(No errors, 0 warnings, 0 messages)
