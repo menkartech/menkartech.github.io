@@ -1,1 +1,0 @@
-# menkartech.github.io
